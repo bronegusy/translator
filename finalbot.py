@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 
 
-bot = telebot.TeleBot("5591009663:AAEUqVrPQ8pZRFGx1lnShZGkUvFdD1PJyjc")
+bot = telebot.TeleBot("")
 
 mess = ""
 
